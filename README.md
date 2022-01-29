@@ -1,2 +1,1 @@
-# T-rex-a-colores-
-T rex con nuevas animaciones y colores
+# PROC18_LP_AM1
